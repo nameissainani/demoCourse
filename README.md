@@ -1,2 +1,0 @@
-# democourse
-demo
