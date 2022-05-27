@@ -1,0 +1,18 @@
+{
+    "name": "DemoCourseBot",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3978/api/messages",
+            "id": "12689220-55eb-11ea-acdc-439223dc657b",
+            "name": "development"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "overrides": null,
+    "path": "C:\\Users\\zidesar\\source\\repos\\DemoCourseBot\\DemoCourseBot\\DemoCourseBot.bot"
+}
